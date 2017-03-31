@@ -1,0 +1,3 @@
+module('creds')
+ssid = ""
+pwd = ""
