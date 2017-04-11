@@ -1,0 +1,18 @@
+{
+  "endpoints": {
+    "/": {
+      "methods": "GET",
+      "description": "API root"
+    },
+    "/help": {
+      "methods": "GET",
+      "description": "Displays API help information."
+    },
+    "/433": {
+      "methods": "GET POST",
+      "description": "Fixed ASK/OOK transmitter control."
+    }
+  },
+  "code": 200,
+  "status": "OK"
+}
